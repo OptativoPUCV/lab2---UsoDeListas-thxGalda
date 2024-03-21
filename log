@@ -21,3 +21,14 @@ Thu 21 Mar 2024 03:23:49 PM UTC:
  tests:  3|2
 total_score: 40/70
 a15f29a
+Thu 21 Mar 2024 03:24:22 PM UTC: 
+ exercises.c | 11 +----------
+ 1 file changed, 1 insertion(+), 10 deletions(-)
+In file included from test.c:5:
+exercises.c: In function ‘eliminaElementos’:
+exercises.c:87:10: error: ‘elemento’ undeclared (first use in this function)
+   87 |   while (elemento != NULL)
+      |          ^~~~~~~~
+exercises.c:87:10: note: each undeclared identifier is reported only once for each function it appears in
+Compilation failed
+eb90077
