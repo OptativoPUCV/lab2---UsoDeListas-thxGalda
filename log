@@ -44,3 +44,9 @@ Thu 21 Mar 2024 03:32:15 PM UTC:
  tests:  3|2
 total_score: 40/70
 603ef1b
+Thu 21 Mar 2024 03:35:54 PM UTC: 
+ exercises.c | 10 +++-------
+ 1 file changed, 3 insertions(+), 7 deletions(-)
+ tests:  3|2
+total_score: 40/70
+e1d5dda
