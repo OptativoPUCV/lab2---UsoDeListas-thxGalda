@@ -84,7 +84,7 @@ void eliminaElementos(List*L, int elem)
 {
   int* dato;
   dato = (int*)first(L);
-  while (elemento != NULL)
+  while (dato != NULL)
     {
       if (*dato == elem)
       {
